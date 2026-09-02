@@ -1,0 +1,7 @@
+## Interface: 120100
+## Title: AutoAcceptForLFG
+## Notes: Automatically accepts group invites and LFG role selection.
+## Author: Jhaku
+## Version: 1.0.0
+## IconTexture: Interface\AddOns\AutoAcceptforLFG\media\logo-aa
+AutoAcceptforLFG.lua
